@@ -2,19 +2,19 @@
   "homerooms": [
     {
       "id": 1,
-      "title": "Zoom Room"
+      "name": "Zoom Room"
     },
         {
       "id": 2,
-      "title": "Play Room"
+      "name": "Play Room"
     },
         {
       "id": 3,
-      "title": "Study Room"
+      "name": "Study Room"
     },
         {
       "id": 4,
-      "title": "Nap Room"
+      "name": "Nap Room"
     }
   ],
   "profile": {
